@@ -27,6 +27,7 @@ public class Student extends People {
 	@Override
 	public String toString() {
 		System.out.println("Hello World!"+1+2);
+		System.out.println("hot fix...");
 		return "Student [grade=" + grade + " name= " + super.getName() +"]";
 	}
 
