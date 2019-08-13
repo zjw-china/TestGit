@@ -28,6 +28,7 @@ public class Student extends People {
 	public String toString() {
 		System.out.println("Hello World!"+1+2);
 		System.out.println("hot fix...");
+		System.out.println("hot fix222222...");
 		return "Student [grade=" + grade + " name= " + super.getName() +"]";
 	}
 
